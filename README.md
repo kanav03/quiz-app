@@ -1,6 +1,7 @@
 # Welcome to the Simple Quiz App
 
-![Flutter Logo](https://flutter.dev/images/flutter-logo-sharing.png)
+![1_1CRm_5eNKcbdVtx7QTfa3g](https://github.com/boomshakalah-tech/quiz-app/assets/124114697/c1371c43-b414-40a3-b8d9-4a2e6a8227aa)
+
 
 ## Overview
 
