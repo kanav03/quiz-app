@@ -33,9 +33,9 @@ Happy quizzing! 🚀📚
 
 ## App Design and Screenshots
 ![logo](https://github.com/boomshakalah-tech/quiz-app/assets/124114697/7700ba2a-d145-4c36-a844-d3af1c33a7ea)
-![394771862_280176004340729_1316068734427866859_n](https://github.com/boomshakalah-tech/quiz-app/assets/124114697/ce444d9a-d009-4335-a025-7f0cc818b0ed)
-
-![394324100_597097345798505_6472865332748398448_n](https://github.com/boomshakalah-tech/quiz-app/assets/124114697/4b8ba7d1-b51c-4ae4-a78b-6c56cb3db821)
-![393988401_6745873822163188_1392739914746783362_n](https://github.com/boomshakalah-tech/quiz-app/assets/124114697/591435ac-df0c-4607-bda5-a0b68e8b1fa9)
-![394918549_294551706783280_459248168601680042_n](https://github.com/boomshakalah-tech/quiz-app/assets/124114697/0ed96890-3a68-4106-83fe-c6fa3a9f177f)![394691252_716646836998398_8571282899945511600_n](https://github.com/boomshakalah-tech/quiz-app/assets/124114697/0f310478-15ae-4be4-bc6e-14dd31e7ecbd)
+<img src="https://github.com/boomshakalah-tech/quiz-app/assets/124114697/ce444d9a-d009-4335-a025-7f0cc818b0ed" width="200" height="400" />
+<img src="https://github.com/boomshakalah-tech/quiz-app/assets/124114697/4b8ba7d1-b51c-4ae4-a78b-6c56cb3db821" width="200" height="400" />
+<img src="https://github.com/boomshakalah-tech/quiz-app/assets/124114697/591435ac-df0c-4607-bda5-a0b68e8b1fa9" width="200" height="400" />
+<img src="https://github.com/boomshakalah-tech/quiz-app/assets/124114697/0ed96890-3a68-4106-83fe-c6fa3a9f177f" width="200" height="400" />
+<img src="https://github.com/boomshakalah-tech/quiz-app/assets/124114697/0f310478-15ae-4be4-bc6e-14dd31e7ecbd" width="200" height="400" />
 
