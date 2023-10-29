@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quiz_app/asnwer_button.dart';
+import 'package:quiz_app/answer_button.dart';
 import 'package:quiz_app/data/questions_data.dart';
 import 'package:google_fonts/google_fonts.dart';
 
