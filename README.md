@@ -26,10 +26,6 @@ To get started with the Simple Quiz App, please refer to the installation and se
 
 We welcome contributions and feedback. Feel free to open issues, create pull requests, or offer suggestions. Let's learn and grow together!
 
-## Acknowledgments
-
-We'd like to thank the Flutter and Dart communities for their continuous support and resources that have made this project possible.
-
 Happy quizzing! 🚀📚
 
 ## App Design and Screenshots
